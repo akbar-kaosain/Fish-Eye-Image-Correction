@@ -1,16 +1,5 @@
 # Fish-eye-Image-Correction-Code
 
-## The basic features of the project:
-
-You can use this program to carry out basic experiments for circular fisheye images:
-
-* Circular Area Parameters Extration.
-* Image Correction.
-* Stitching corrected images into a panorama.
-* navigate the produced panorama.
-
-User experience is not so good, it only has basic functions.
-
 ## The demo video play
 
 Link For the demo Video:
