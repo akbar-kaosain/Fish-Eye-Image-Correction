@@ -13,7 +13,7 @@ User experience is not so good, it only has basic functions.
 
 ## The demo video play
 
-[![demo vide](https://img.youtube.com/vi/4rHV4EqkvDQ/0.jpg)](https://www.youtube.com/watch?v=4rHV4EqkvDQ)
+[![demo vide]([[https://img.youtube.com/vi/4rHV4EqkvDQ/0.jpg)](https://www.youtube.com/watch?v=4rHV4EqkvDQ](https://youtu.be/BQV-URN5nwE)](https://www.youtube.com/watch?v=BQV-URN5nwE&ab_channel=kaosainakbar))
 
 ## How to use this project
 
