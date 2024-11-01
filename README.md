@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=BQV-URN5nwE&ab_channel=kaosainakbar
 
 ### Sample Processing
 
-OK! Probably like this. Here is a sample processing.
+Here is a sample processing.
 
 #### The original images
 ![image1](https://github.com/wangzhizhou/Fish-eye-Image-Correction-Code/blob/master/resources/1.JPG)
